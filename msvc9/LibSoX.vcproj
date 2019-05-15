@@ -870,6 +870,10 @@
 				>
 			</File>
 			<File
+				RelativePath="..\src\rso.c"
+				>
+			</File>
+			<File
 				RelativePath="..\src\avr.c"
 				>
 			</File>

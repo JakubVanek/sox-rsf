@@ -42,6 +42,7 @@ The current release handles the following audio file formats:
 * Maxis XA Audio files
 ** EA ADPCM (read support only, for now)
 * Pseudo formats that allow direct playing/recording from most audio devices
+* LEGO® MINDSTORMS® NXT RSO/EV3 RSF files
 * The "null" pseudo-file that reads and writes from/to nowhere
 (:tableend:)
 

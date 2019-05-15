@@ -111,6 +111,7 @@ set(formats_srcs
   prc
   raw
   raw-fmt
+  rso
   s1-fmt
   s2-fmt
   s3-fmt

@@ -652,6 +652,13 @@ and
 .BR sox (1)
 .BR \-d .
 .TP
+\fB.rso\fR, \fB.rsf\fR
+LEGO(R) MINDSTORMS(R) NXT RSO / EV3 RSF (Robot Sound File).
+A simple file format used in the stock NXT and EV3 firmwares.
+The format can store either U8 or IMA ADPCM samples. However only the U8
+mode is enabled, as the IMA ADPCM mode has problems on the EV3.
+Also, only the 8000 Hz sample rate and a single channel are supported.
+.TP
 .B .txw
 Yamaha TX-16W sampler.
 A file format from a Yamaha sampling keyboard which wrote IBM-PC

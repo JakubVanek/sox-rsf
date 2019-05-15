@@ -435,6 +435,9 @@
     <ClCompile Include="..\src\raw-fmt.c">
       <Filter>Format Sources</Filter>
     </ClCompile>
+    <ClCompile Include="..\src\rso.c">
+      <Filter>Format Sources</Filter>
+    </ClCompile>
     <ClCompile Include="..\src\s1-fmt.c">
       <Filter>Format Sources</Filter>
     </ClCompile>

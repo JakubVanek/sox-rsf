@@ -281,6 +281,7 @@
     <ClCompile Include="..\src\prc.c" />
     <ClCompile Include="..\src\pvf.c" />
     <ClCompile Include="..\src\raw-fmt.c" />
+    <ClCompile Include="..\src\rso.c" />
     <ClCompile Include="..\src\s1-fmt.c" />
     <ClCompile Include="..\src\s2-fmt.c" />
     <ClCompile Include="..\src\s3-fmt.c" />
